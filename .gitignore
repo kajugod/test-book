@@ -1,0 +1,5 @@
+# Intellij
+*.bak
+history.bak
+.DS_Store
+*.bak

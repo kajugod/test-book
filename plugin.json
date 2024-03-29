@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "author": "KaJu",
+        "description": "📛🔻📛"
+    },
+    "data": [
+        {
+            "name": "misskon",
+            "author": "kaju",
+            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/misskon/plugin.zip",
+            "version": 1,
+            "source": "https://misskon.com/",
+            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/misskon/icon.png",
+            "description": "Tập Hợp Album của Xiuren...",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        }
+    ]
+}

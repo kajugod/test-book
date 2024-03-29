@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "name": "misskon",
+        "author": "kaju",
+        "version": 2,
+        "source": "https://misskon.com/",
+        "regexp": "https://misskon.com/.+",
+        "description": "Tập Hợp Album của Xiuren...",
+        "locale": "vi_VN",
+        "tag": "nsfw",
+        "type": "comic",
+        "language": "javascript"
+    },
+    "script": {
+        "home": "home.js",
+        "genre": "genre.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js"
+    }
+}
