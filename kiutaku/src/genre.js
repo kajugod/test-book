@@ -1,0 +1,45 @@
+function execute() {
+    return Response.success([
+        {title: "D_妲己_Toxic", input: "https://kiutaku.com/girl/267", script: "gen.js"},
+        {title: "D_允爾", input: "https://kiutaku.com/girl/642", script: "gen.js"},
+        {title: "D_温心怡", input: "https://kiutaku.com/girl/450", script: "gen.js"},
+        {title: "D_果儿", input: "https://kiutaku.com/girl/409", script: "gen.js"},
+        {title: "D_奶瓶土肥圆", input: "https://kiutaku.com/girl/474", script: "gen.js"},
+        {title: "D_小海臀", input: "https://kiutaku.com/girl/766", script: "gen.js"},
+        {title: "D_田冰冰", input: "https://kiutaku.com/girl/638", script: "gen.js"},
+        {title: "D_周妍希", input: "https://kiutaku.com/girl/1504", script: "gen.js"},
+        {title: "D_玥儿玥", input: "https://kiutaku.com/girl/647", script: "gen.js"},
+        {title: "芝芝Booty", input: "https://kiutaku.com/girl/478", script: "gen.js"},
+        {title: "杨晨晨", input: "https://kiutaku.com/girl/290", script: "gen.js"},
+        {title: "周于希", input: "https://kiutaku.com/girl/322", script: "gen.js"},
+        {title: "朱可儿", input: "https://kiutaku.com/girl/585", script: "gen.js"},
+        {title: "王雨纯", input: "https://kiutaku.com/girl/435", script: "gen.js"},
+        {title: "尤妮丝", input: "https://kiutaku.com/girl/468", script: "gen.js"},   
+        {title: "刘钰儿", input: "https://kiutaku.com/girl/298", script: "gen.js"},
+        {title: "美七", input: "https://kiutaku.com/girl/700", script: "gen.js"},
+        {title: "心妍小公主", input: "https://kiutaku.com/girl/479", script: "gen.js"},       
+        {title: "小蛮妖", input: "https://kiutaku.com/girl/566", script: "gen.js"},
+        {title: "唐宁宁", input: "https://kiutaku.com/girl/1570", script: "gen.js"},
+        {title: "小薯条", input: "https://kiutaku.com/girl/1589", script: "gen.js"},
+        {title: "幼幼", input: "https://kiutaku.com/girl/1540", script: "gen.js"},
+
+        {title: "XiuRen", input: "https://kiutaku.com/brand/1", script: "gen.js"},
+        {title: "XiaoYu", input: "https://kiutaku.com/brand/23", script: "gen.js"},
+        {title: "BoLoli", input: "https://kiutaku.com/brand/6", script: "gen.js"},
+        {title: "DKGirl", input: "https://kiutaku.com/brand/15", script: "gen.js"},
+        {title: "YouMi", input: "https://kiutaku.com/brand/17", script: "gen.js"},
+        {title: "Micat", input: "https://kiutaku.com/brand/20", script: "gen.js"},
+        {title: "Imiss", input: "https://kiutaku.com/brand/5", script: "gen.js"},
+        {title: "MyGirl", input: "https://kiutaku.com/brand/4", script: "gen.js"},
+        {title: "HuaYan", input: "https://kiutaku.com/brand/14", script: "gen.js"},
+        {title: "MFStar", input: "https://kiutaku.com/brand/2", script: "gen.js"},
+        {title: "HuaYang花漾", input: "https://kiutaku.com/brand/21", script: "gen.js"},
+        {title: "FeiLin", input: "https://kiutaku.com/brand/10", script: "gen.js"},
+        {title: "MiStar", input: "https://kiutaku.com/brand/3", script: "gen.js"},
+        {title: "HXingYan", input: "https://kiutaku.com/brand/22", script: "gen.js"},
+        {title: "MiiTao", input: "https://kiutaku.com/brand/9", script: "gen.js"},
+
+
+        
+    ]);
+}

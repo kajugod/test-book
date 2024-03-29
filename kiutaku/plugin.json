@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "name": "xiutaku",
+        "name": "kiutaku",
         "author": "kaju",
         "version": 1,
-        "source": "https://xiutaku.com/",
-        "regexp": "https://xiutaku.com/.+",
-        "description": "Tập Hợp Album Trung Quốc",
+        "source": "https://kiutaku.com/",
+        "regexp": "https://kiutaku.com/.+",
+        "description": "Tập Hợp Album Cosplay",
         "locale": "vi_VN",
         "tag": "nsfw",
         "type": "comic",
