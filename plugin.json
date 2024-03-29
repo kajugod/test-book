@@ -17,12 +17,12 @@
             "tag": "nsfw"
         },
 	{
-            "name": "Buondua kaju",
+            "name": "xiutaku kaju",
             "author": "kaju",
-            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/Buondua/plugin.zip",
+            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/xiutaku/plugin.zip",
             "version": 1,
-            "source": "https://buondua.com/",
-            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/Buondua/icon.png",
+            "source": "https://xiutaku.com/",
+            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/xiutaku/icon.png",
             "description": "Tập Hợp Album của Xiuren...",
             "type": "comic",
             "locale": "vi_VN",

@@ -1,4 +1,4 @@
-const BASE_URL = 'https://buondua.com'
+const BASE_URL = 'https://xiutaku.com'
 function execute(url, page) {
     if (!page) page = "0";
 

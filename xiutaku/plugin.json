@@ -1,10 +1,10 @@
 {
     "metadata": {
-        "name": "Buondua kaju",
+        "name": "xiutaku kaju",
         "author": "kaju",
         "version": 1,
-        "source": "https://buondua.com/",
-        "regexp": "https://buondua.com/.+",
+        "source": "https://xiutaku.com/",
+        "regexp": "https://xiutaku.com/.+",
         "description": "Tập Hợp Album của Xiuren...",
         "locale": "vi_VN",
         "tag": "nsfw",

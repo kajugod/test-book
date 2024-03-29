@@ -1,10 +1,10 @@
-const BASE_URL = 'https://buondua.com'
+const BASE_URL = 'https://xiutaku.com'
 function execute(url) {
     url = decodeURIComponent(url)
-    // let id = /https:\/\/buondua.com\/([\w-]+(?:-\w+)*)/.exec(url);
+    // let id = /https:\/\/xiutaku.com\/([\w-]+(?:-\w+)*)/.exec(url);
     // if (id) id = id[1];
     // console.log(id)
-    // let newUrl = "https://buondua.com/" + id;
+    // let newUrl = "https://xiutaku.com/" + id;
     let response = fetch(url);
     if (response.ok) {
         let doc = response.html();
