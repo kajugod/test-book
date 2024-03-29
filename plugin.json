@@ -15,6 +15,41 @@
             "type": "comic",
             "locale": "vi_VN",
             "tag": "nsfw"
-        }
+        },
+	{
+            "name": "Buondua kaju",
+            "author": "kaju",
+            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/Buondua/plugin.zip",
+            "version": 1,
+            "source": "https://buondua.com/",
+            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/Buondua/icon.png",
+            "description": "Tập Hợp Album của Xiuren...",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
+	    {
+   	   "name": "HentaiVN kaju",
+  	    "author": "kaju",
+   	   "path": "https://raw.githubusercontent.com/kajugod/test-book/main/hentaivn/plugin.zip",
+   	   "version": 7,
+  	    "type": "comic",
+  	    "locale": "vi_VN",
+  	    "source": "https://hentaivn.moe",
+  	    "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/hentaivn/icon.png",
+  	    "description": "Đọc truyện trên trang HentaiVN",
+  	    "tag": "nsfw"
+  	  },
+	{
+    	  "name": "Hentai Image kaju",
+   	   "author": "kaju",
+   	   "path": "https://raw.githubusercontent.com/kajugod/test-book/main/hentai-img/plugin.zip",
+   	   "version": 1,
+  	    "source": "https://hentai-img.com",
+   	   "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/hentai-img/icon.png",
+   	   "description": "Xem ảnh 18+ trên trang hentai-img.com",
+   	   "tag": "nsfw",
+  	    "type": "comic"
+ 	   }
     ]
 }
