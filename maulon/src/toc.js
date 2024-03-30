@@ -3,7 +3,7 @@ function execute(url) {
     url = decodeURIComponent(url)
     // let id = /https:\/\/cosplaytele.com\/([\w-]+(?:-\w+)*)/.exec(url);
     // if (id) id = id[1];
-    // let newUrl = "https://cosplaytele.com/" + id;
+    // let newUrl = "https://7sex.maulon.pro/" + id;
     let response= fetch(url);
     let doc = response.html();
     let div = doc.select(".pagination-list").first()
@@ -14,7 +14,7 @@ function execute(url) {
         data.push({
             name: e.select("a").text(),
             url: encodeURIComponent(e.select("a").attr("href")).replace("%2F","/"),
-            host: "https://cosplaytele.com"
+            host: "https://7sex.maulon.pro"
         })
     }
 
