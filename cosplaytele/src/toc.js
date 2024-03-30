@@ -1,9 +1,9 @@
 // mục lục 
 function execute(url) {
     url = decodeURIComponent(url)
-    // let id = /https:\/\/8kcosplay.com\/([\w-]+(?:-\w+)*)/.exec(url);
+    // let id = /https:\/\/cosplaytele.com\/([\w-]+(?:-\w+)*)/.exec(url);
     // if (id) id = id[1];
-    // let newUrl = "https://8kcosplay.com/" + id;
+    // let newUrl = "https://cosplaytele.com/" + id;
     let response= fetch(url);
     let doc = response.html();
     let div = doc.select(".pagination-list").first()
@@ -14,7 +14,7 @@ function execute(url) {
         data.push({
             name: e.select("a").text(),
             url: encodeURIComponent(e.select("a").attr("href")).replace("%2F","/"),
-            host: "https://8kcosplay.com"
+            host: "https://cosplaytele.com"
         })
     }
 

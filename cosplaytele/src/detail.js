@@ -1,10 +1,10 @@
-const BASE_URL = 'https://8kcosplay.com'
+const BASE_URL = 'https://cosplaytele.com'
 function execute(url) {
     url = decodeURIComponent(url)
-    // let id = /https:\/\/8kcosplay.com\/([\w-]+(?:-\w+)*)/.exec(url);
+    // let id = /https:\/\/cosplaytele.com\/([\w-]+(?:-\w+)*)/.exec(url);
     // if (id) id = id[1];
     // console.log(id)
-    // let newUrl = "https://8kcosplay.com/" + id;
+    // let newUrl = "https://cosplaytele.com/" + id;
     let response = fetch(url);
     if (response.ok) {
         let doc = response.html();

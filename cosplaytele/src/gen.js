@@ -1,4 +1,4 @@
-const BASE_URL = 'https://8kcosplay.com'
+const BASE_URL = 'https://cosplaytele.com'
 function execute(url, page) {
     if (!page) page = "0";
 
