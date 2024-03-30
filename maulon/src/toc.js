@@ -1,7 +1,7 @@
 // mục lục 
 function execute(url) {
     url = decodeURIComponent(url)
-    // let id = /https:\/\/cosplaytele.com\/([\w-]+(?:-\w+)*)/.exec(url);
+    // let id = /https:\/\/7sex.maulon.pro\/([\w-]+(?:-\w+)*)/.exec(url);
     // if (id) id = id[1];
     // let newUrl = "https://7sex.maulon.pro/" + id;
     let response= fetch(url);
