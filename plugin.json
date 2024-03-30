@@ -28,6 +28,18 @@
             "locale": "vi_VN",
             "tag": "nsfw"
         },
+        {
+            "name": "8kcosplay",
+            "author": "kaju",
+            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/8kcosplay/plugin.zip",
+            "version": 1,
+            "source": "https://8kcosplay.com",
+            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/8kcosplay/icon.png",
+            "description": "Tập Hợp Album Cosplay",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
 	{
             "name": "buondua",
             "author": "kaju",
