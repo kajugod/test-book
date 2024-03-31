@@ -40,6 +40,30 @@
             "locale": "vi_VN",
             "tag": "nsfw"
         },
+                {
+            "name": "Porn Image",
+            "author": "kaju",
+            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/porn-images/plugin.zip",
+            "version": 1,
+            "source": "https://porn-images-xxx.com/",
+            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/porn-images/icon.png",
+            "description": "Mô tả",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
+                {
+            "name": "Cosplay Image",
+            "author": "kaju",
+            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/hentai-cosplays/plugin.zip",
+            "version": 1,
+            "source": "https://hentai-cosplays.com/",
+            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/hentai-cosplays/icon.png",
+            "description": "Mô tả",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
 	{
             "name": "buondua kaju",
             "author": "kaju",

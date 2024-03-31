@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Porn Image",
+    "author": "kaju",
+    "version": 1,
+    "source": "https://porn-images-xxx.com",
+    "regexp": "([a-z]+.)*porn-images-xxx.com/(image|story)/[a-z0-9-]+(/?|.*?)",
+    "description": "Mô tả",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
