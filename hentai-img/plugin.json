@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Hentai Image",
     "author": "kaju",
-    "version": 2,
+    "version": 4,
     "source": "https://hentai-img.com",
     "regexp": "([a-z]+.)*hentai-img.com/(image|story)/[a-z0-9-]+(/?|.*?)",
     "description": "Mô tả",

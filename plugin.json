@@ -29,13 +29,13 @@
             "tag": "nsfw"
         },
         {
-            "name": "hentai-img",
+            "name": "Hentai Image",
             "author": "kaju",
             "path": "https://raw.githubusercontent.com/kajugod/test-book/main/hentai-img/plugin.zip",
-            "version": 2,
+            "version": 4,
             "source": "https://hentai-img.com/",
             "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/hentai-img/icon.png",
-            "description": "Tập Hợp Album Cosplay",
+            "description": "Mô tả",
             "type": "comic",
             "locale": "vi_VN",
             "tag": "nsfw"
