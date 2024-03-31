@@ -1,1 +1,0 @@
-const BASE_URL = 'https://7sex.maulon.pro'
