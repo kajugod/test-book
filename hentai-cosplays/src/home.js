@@ -1,8 +1,6 @@
 function execute() {
     return Response.success([
-        {title: "Home", input: "https://hentai-cosplays.com/", script: "gen.js"},
         {title: "Ranking", input: "https://hentai-cosplays.com/ranking/", script: "gen.js"},
-        {title: "Ranking Image", input: "https://hentai-cosplays.com/ranking-images/", script: "gen.js"},
         {title: "Naji Adult", input: "https://hentai-cosplays.com/search/keyword/Naji+Adult/page/1/", script: "gen.js"},
         {title: "Archive", input: "https://hentai-cosplays.com/archive/", script: "gen.js"},
         {title: "Minichu", input: "https://hentai-cosplays.com/search/keyword/Minichu/", script: "gen.js"},      
