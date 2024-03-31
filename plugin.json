@@ -29,12 +29,12 @@
             "tag": "nsfw"
         },
         {
-            "name": "maulon",
+            "name": "hentai-img",
             "author": "kaju",
-            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/maulon/plugin.zip",
-            "version": 1,
-            "source": "https://7sex.maulon.pro",
-            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/maulon/icon.png",
+            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/hentai-img/plugin.zip",
+            "version": 2,
+            "source": "https://hentai-img.com/",
+            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/hentai-img/icon.png",
             "description": "Tập Hợp Album Cosplay",
             "type": "comic",
             "locale": "vi_VN",
