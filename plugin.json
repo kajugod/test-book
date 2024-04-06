@@ -76,6 +76,18 @@
             "locale": "vi_VN",
             "tag": "nsfw"
         },
+         {
+            "name": "DouJins kaju",
+            "author": "kaju",
+            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/doujins/plugin.zip",
+            "version":6,
+            "source": "https://doujins.com",
+            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/doujins/icon.png",
+            "description": "Mô tả",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
 	{
             "name": "buondua kaju",
             "author": "kaju",
