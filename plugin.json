@@ -64,6 +64,18 @@
             "locale": "vi_VN",
             "tag": "nsfw"
         },
+         {
+            "name": "8muses kaju",
+            "author": "kaju",
+            "path": "https://raw.githubusercontent.com/kajugod/test-book/main/8muses/plugin.zip",
+            "version": 2,
+            "source": "https://8muses.com",
+            "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/8muses/icon.png",
+            "description": "Mô tả",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
 	{
             "name": "buondua kaju",
             "author": "kaju",
