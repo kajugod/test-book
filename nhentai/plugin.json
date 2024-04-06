@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "nHentai kaju",
+    "author": "kaju",
+    "version": 5,
+    "source": "https://nhentai.to",
+    "regexp": "(www.)?nhentai.to/g/\\d+/?$",
+    "description": "Đọc truyện trên trang nHentai",
+    "locale": "locale",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

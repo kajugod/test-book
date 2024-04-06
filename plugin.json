@@ -88,6 +88,18 @@
             "locale": "vi_VN",
             "tag": "nsfw"
         },
+        {
+      "name": "nHentai kaju",
+      "author": "kaju",
+      "path": "https://raw.githubusercontent.com/kajugod/test-book/main/nhentai/plugin.zip",
+      "version": 5,
+      "type": "comic",
+      "locale": "en_US",
+      "source": "https://nhentai.net",
+      "icon": "https://raw.githubusercontent.com/kajugod/test-book/main/nhentai/icon.png",
+      "description": "Đọc truyện trên trang nHentai",
+      "tag": "nsfw"
+    },
 	{
             "name": "buondua kaju",
             "author": "kaju",
