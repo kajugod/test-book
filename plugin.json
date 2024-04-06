@@ -100,6 +100,7 @@
       "description": "Đọc truyện trên trang nHentai",
       "tag": "nsfw"
     },
+    {
       "name": "ImHentai kaju",
       "author": "kaju",
       "path": "https://raw.githubusercontent.com/kajugod/test-book/main/imhentai/plugin.zip",
