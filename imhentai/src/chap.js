@@ -9,7 +9,7 @@ function execute(url) {
         el.select("noscript").remove();
         let data = [];
         el.forEach(e => {
-            data.push(e.select("img").attr("data-src").replace(/t(\d+)?.imhentai.xxx/gallery, "i" + mediaServer + ".imhentai.xxx").replace(/(\d+)t/, "$1"));
+            data.push(e.select("img").attr("src").replace(/t(\d+)?.imhentai.xxx/gallery, "i" + mediaServer + ".imhentai.xxx").replace(/(\d+)t/, "$1"));
         });
         return Response.success(data);
     }
