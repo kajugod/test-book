@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "ImHentai kaju",
+    "author": "kaju",
+    "version": 5,
+    "source": "https://imhentai.xxx",
+    "regexp": "(www.)?imhentai.xxx/gallery/\\d+/?$",
+    "description": "Đọc truyện trên trang ImHentai",
+    "locale": "locale",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
